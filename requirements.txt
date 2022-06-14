@@ -1,0 +1,6 @@
+﻿paramiko==2.10.1
+pyodbc==4.0.30
+python-decouple==3.4
+requests==2.24.0
+lxml==4.6.5
+tabulate==0.8.9
